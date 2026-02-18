@@ -1,5 +1,7 @@
 # Clawdbot Control
 
+![image](resources/dashboard.jpeg)
+
 A native macOS application for managing Clawdbot. Provides a graphical interface for users who prefer not to use the command line.
 
 ## Requirements
